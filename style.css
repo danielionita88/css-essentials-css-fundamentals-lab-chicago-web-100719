@@ -42,5 +42,9 @@ figcaption {
   display:block;
   
 }
+ 
+div{
+  float: left;
+}
 
 
